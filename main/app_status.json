@@ -1,5 +1,5 @@
 {
-  "status": "error",
+  "status": "RUNNING",
   "version": "1.0.0",
-  "message": "App server down - Server maintainance is going on. check again at 1:00 PM"
+  "message": "App Server Running Well."
 }
